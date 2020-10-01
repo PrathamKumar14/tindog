@@ -3,6 +3,10 @@ body {
   text-align: center;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 /* Main Heading  */
 .big-heading {
   font-family: "Montserrat-black", sans-serif;
